@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding;
+    font-family: sans-serif;
+}
+.glyphicon-pencil{
+    font-size: 30px;
+    color: forestgreen;
+    float: right;
+    margin-top: -10px;
+}
+#other{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
